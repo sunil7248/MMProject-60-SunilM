@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+drawable grama_urja_logo
+drawable ic_launcher_full
+string app_name
+style Theme.GramaUrja

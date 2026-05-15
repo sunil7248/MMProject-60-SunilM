@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Harsha Kiran H B\\.gradle\\daemon\\9.0-milestone-1\\com.gramaurja.app-debug-74:\\drawable_grama_urja_logo.png.flat",
+        "source": "C:\\Users\\Harsha Kiran H B\\.gradle\\daemon\\9.0-milestone-1\\com.gramaurja.app-main-76:\\drawable\\grama_urja_logo.png"
+    },
+    {
+        "merged": "com.gramaurja.app-debug-74:/drawable_ic_launcher_full.xml.flat",
+        "source": "com.gramaurja.app-main-76:/drawable/ic_launcher_full.xml"
+    }
+]

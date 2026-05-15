@@ -1,0 +1,4 @@
+com.gramaurja.test.app-androidTest-0 C:\Users\Harsha Kiran H B\Desktop\Sunil\app\build\generated\res\resValues\androidTest\debug
+com.gramaurja.test.app-mergeDebugAndroidTestResources-1 C:\Users\Harsha Kiran H B\Desktop\Sunil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.gramaurja.test.app-mergeDebugAndroidTestResources-2 C:\Users\Harsha Kiran H B\Desktop\Sunil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.gramaurja.test.app-debugAndroidTest-3 C:\Users\Harsha Kiran H B\Desktop\Sunil\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
